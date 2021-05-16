@@ -1,0 +1,26 @@
+<center>
+
+<span size="4px"; color: red; font-weight: bolder; text-shadow: 0 0 10px #f00; background: url(https://i.imgyukle.com/2021/01/24/HcjhYR.gif);> 1.1.0</span>
+<br/>
+# Arayüz tasarımı değiştirildi.
+<br/>
+# Premium erişimine yeni rütbeler eklendi. (Kurucu, Admin, Mod, Youtuber)
+<br/>
+# Discord Status Güncellendi.
+<br/>
+# Renk Paleti Değiştirildi.
+<br/>
+# Hileler kısmına Anime karakteri eklendi.
+<br/>
+
+#v1.0.0 yayınlandı.#
+
+
+
+
+
+
+
+
+
+</center>
